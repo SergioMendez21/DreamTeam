@@ -55,7 +55,7 @@ namespace Ejercicio.Controllers
         {
             return Json(new { r =s.a+s.b});
         }
-        public JsonResult getTemperatura(string Usuario, string Contrasena)
+        public IActionResult getTemperatura(string Usuario, string Contrasena)
         {
             using (var db = new SENSORDETEMPERATURAContext())
             {
