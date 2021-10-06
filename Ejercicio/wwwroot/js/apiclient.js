@@ -64,7 +64,7 @@ function getSuma(a, b) {
     }
     //req.open("GET", "Api/Suma?a="+a+"&b="+b);
     //req.send();
-    req.open("GET", "Api/Suma");
+    req.open("POST", "Api/Suma");
     req.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
     req.send(JSON.stringify({"a":a, "b":b}));
 }

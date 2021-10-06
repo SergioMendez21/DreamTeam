@@ -55,6 +55,28 @@ namespace Ejercicio.Controllers
         {
             return Json(new { r =s.a+s.b});
         }
+        public JsonResult getTemperatura(string Usuario, string Contrasena)
+        {
+            using (var db = new SENSORDETEMPERATURAContext())
+            {
+
+                var user = db.Usuarios.Where(x => x.Usuario1 == Usuario && x.Contraseña == Contrasena).FirstOrDefault();
+                if (user != null)
+                {
+                    Random r = new Random();
+                    var token = Convert.ToString(r.Next(128, 255), 2);
+                    int Tokendb = int.Parse(token);
+
+                    //Genera un numero entre 10 y 100 (101 no se incluye)
+                    Console.WriteLine(Tokendb);
+                    return Json(new { respuestatoken = Tokendb });
+
+                }
+                else {
+                    return Json("Autenticación invalida");
+                }
+            }
+        }
     }
 }
 
