@@ -1,0 +1,224 @@
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.exe
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.deps.json
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.json
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.dev.json
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.pdb
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.Views.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.Views.pdb
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.AssemblyReference.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfoInputs.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfo.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CoreCompileInputs.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorAssemblyInfo.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorAssemblyInfo.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\staticwebassets\Ejercicio.StaticWebAssets.Manifest.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\staticwebassets\Ejercicio.StaticWebAssets.xml
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ejercicio.styles.css
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.TagHelpers.input.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.TagHelpers.output.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorCoreGenerate.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorTargetAssemblyInfo.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorTargetAssemblyInfo.cs
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.Views.pdb
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.pdb
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.genruntimeconfig.cache
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CopyComplete
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\VIII Semestre\Programacion web\Ejemplos clase\MVC\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.exe
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.deps.json
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.json
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.dev.json
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.Views.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.Views.pdb
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfo.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorAssemblyInfo.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorAssemblyInfo.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\staticwebassets\Ejercicio.StaticWebAssets.Manifest.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\staticwebassets\Ejercicio.StaticWebAssets.xml
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ejercicio.styles.css
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.TagHelpers.input.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.TagHelpers.output.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorCoreGenerate.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.Views.pdb
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CopyComplete
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.genruntimeconfig.cache
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Test\Repe.cshtml.g.cs
+C:\Users\Sergio\Documents\Universidad\2021-2\Progra Web\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Razor\Views\Test\Persona.cshtml.g.cs

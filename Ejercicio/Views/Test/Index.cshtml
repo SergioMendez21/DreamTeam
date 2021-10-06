@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index ¡Hola!</h1>
+<u1>
+    @for (int i = 0; i < 10; i++)
+    {
+        <li>@i</li>
+    }
+</u1>
+<input id="sumandoA" type="number" />
+<input id="sumandoB" type="number" />
+<input value="Sumar" onclick="Onsuma();" type="button" />
+<label id="resultado"></label>
+
