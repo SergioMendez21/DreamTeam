@@ -68,3 +68,16 @@ function getSuma(a, b) {
     req.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
     req.send(JSON.stringify({"a":a, "b":b}));
 }
+function getTemperature(Usuario, Contrasena) {
+    var req = new XMLHttpRequest();
+    req.onload = function (resp) {
+        if (resp.currentTarget.Status == 200) {
+            let r = JSON.parse(resp.currentTarget.response);
+            console.log(r);
+        } else {
+            console.log("ERROR:" + resp.currentTarget.Status + " " + resp.currentTarget.response);
+        }
+    }
+    req.open("GET", "Api/getTemperature");
+    req.send();
+}

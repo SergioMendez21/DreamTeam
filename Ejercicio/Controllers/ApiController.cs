@@ -68,7 +68,6 @@ namespace Ejercicio.Controllers
                     int Tokendb = int.Parse(token);
 
                     //Genera un numero entre 10 y 100 (101 no se incluye)
-                    Console.WriteLine(Tokendb);
                     return Json(new { respuestatoken = Tokendb });
 
                 }
